@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto+Slab');
+
 *{margin: 0; padding: 0;}
 
 body{
@@ -40,11 +42,6 @@ blockquote{
 	margin-left: 50px;
 }
 
-img{
-	width: ;
-	height: auto;
-}
-
 a{
 	text-decoration: none;
 	color: blue;
@@ -59,9 +56,6 @@ a:visited{
 }
 
 /*Start Header*/
-.header_bg{
-	
-}
 #header{
 	padding: 41px 0;
 	overflow: hidden;
@@ -161,9 +155,6 @@ a:visited{
 	width: 300px;
 	float: left;
 	margin-right: 20px;
-}
-#section2 .section2_column .section2_single_column img{
-	
 }
 #section2 .section2_column .section2_single_column h2{
 	font-weight: bold;

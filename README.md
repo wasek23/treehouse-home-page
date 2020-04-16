@@ -5,7 +5,7 @@
 
 ### Main Featured:
     Design With HTML5 & CSS3
-    Google Web Font Include
+    Google Web Fonts Include
     Footer Social
     Footer Weights
 
